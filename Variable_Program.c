@@ -4,9 +4,7 @@
 
 #include <stdio.h>
 int main(){
-	char testGradeOne = 'C';
-	char testGradeTwo = 'B';
-	char testGradeThree = 'A';
+	char testGradeOne = 'C', testGradeTwo = 'B', testGradeThree = 'A';
 	
 	printf("I am quite new to coding so hopefully this works\n");
 	
